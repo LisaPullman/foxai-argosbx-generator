@@ -18,10 +18,10 @@
   ],
   "author": "FoxAI & yonggekkk",
   "license": "MIT",
-  "homepage": "https://github.com/yonggekkk/argosbx",
+  "homepage": "https://github.com/LisaPullman/foxai-argosbx-generator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yonggekkk/argosbx.git"
+    "url": "https://github.com/LisaPullman/foxai-argosbx-generator.git"
   },
   "devDependencies": {
     "serve": "^14.2.0"
