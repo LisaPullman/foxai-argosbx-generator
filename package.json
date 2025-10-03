@@ -4,8 +4,8 @@
   "description": "FoxAI - Argosbx一键无交互小钢炮脚本配置生成器",
   "main": "index.html",
   "scripts": {
-    "start": "serve -s . -p 3000",
-    "build": "echo 'No build step required for static site'",
+    "start": "serve -s public -p 3000",
+    "build": "mkdir -p public && cp index.html public/index.html",
     "dev": "serve -s . -p 3000"
   },
   "keywords": [
